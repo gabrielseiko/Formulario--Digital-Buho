@@ -1,9 +1,4 @@
-# Formulario--Digital-Buho
-El siguiente formulario se construyo con los siguientes lenguajes: html, css y javascript.
-
-Tiene como objetivo registrar un nombre y un correo valido.
-
-![image](https://user-images.githubusercontent.com/116466802/219838911-facc19a7-0f76-42a9-ad2d-f54433c221de.png)
+# Gabriel Silva 
 
 ### FUNCIONALIDAD
 
